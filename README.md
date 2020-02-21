@@ -35,14 +35,14 @@ npx nodemon index.js
 ## Overview
 
   <p align="center">
-    <img width="500" src="https://github.com/LilaGuill/deliveroo-backend/blob/master/public/screen.png" alt="capture-1">
+    <img width="500" src="https://github.com/LilaGuill/deliveroo-frontend/blob/master/public/screen.png" alt="capture-1">
   </p>
 
 <p align="center">
   Demo:<a href="https://deliveroo-react-lg.netlify.com/" target="_blank"> https://deliveroo-react-lg.netlify.com/</a>
 </p>
 
-## React Todo List Client
+## Deliveroo Client
 
 <a href="https://github.com/LilaGuill/deliveroo-frontend">https://github.com/LilaGuill/deliveroo-frontend</a>
 
