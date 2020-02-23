@@ -29,7 +29,8 @@ npx nodemon index.js
 
 ## Client
 
-- HTTP request with axios (Get)
+- React
+- HTTP request with axios (get)
 - Hooks (useState, useEffect)
 
 ## Overview
